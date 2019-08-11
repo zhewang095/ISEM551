@@ -1,5 +1,0 @@
-1. Download and install Git.
-2. Create a Github account.
-3. Create a .txt file.
-4. Perform "Commit" operation.
-5. Perform "Push" operation.
